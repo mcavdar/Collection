@@ -9,3 +9,6 @@
 ## Web Pages
 
 ## Reading List
+
+* [A Mathematical Theory of Communication](https://culturemath.ens.fr/sites/default/files/p3-shannon.pdf) <br/>
+* [Probabilistic Syntax](https://nlp.stanford.edu/~manning/papers/probsyntax.pdf) <br/>
