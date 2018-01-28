@@ -17,3 +17,4 @@
 * [Word representations: A simple and general method for semi-supervised learning](http://www.iro.umontreal.ca/~lisa/pointeurs/turian-wordrepresentations-acl10.pdf)<br/>
 * [Natural Language Processing (almost) from Scratch](https://arxiv.org/pdf/1103.0398v1.pdf)<br/>
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)<br/>
+* [Bilingual Word Embeddings for Phrase-Based Machine Translation](http://ai.stanford.edu/~wzou/emnlp2013_ZouSocherCerManning.pdf)<br/>
