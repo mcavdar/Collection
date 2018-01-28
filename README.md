@@ -13,3 +13,4 @@
 * [A Mathematical Theory of Communication](https://culturemath.ens.fr/sites/default/files/p3-shannon.pdf) <br/>
 * [Probabilistic Syntax](https://nlp.stanford.edu/~manning/papers/probsyntax.pdf) <br/>
 * [The National Challenge in Computer Science and Technology](https://www.nap.edu/read/10331/chapter/1#viii) <br/>
+* [Word representations: A simple and general method for semi-supervised learning](http://www.iro.umontreal.ca/~lisa/pointeurs/turian-wordrepresentations-acl10.pdf)<br/>
