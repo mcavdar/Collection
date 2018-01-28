@@ -6,6 +6,7 @@
 
 ### NLP
 * [On Chomsky and the Two Cultures of Statistical Learning](http://norvig.com/chomsky.html) <br/>
+* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)<br/>
 
 ## Web Pages
 
