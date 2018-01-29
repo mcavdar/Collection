@@ -4,6 +4,8 @@
 
 ## Articles
 
+* [PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)<br/>
+
 ### NLP
 * [On Chomsky and the Two Cultures of Statistical Learning](http://norvig.com/chomsky.html) <br/>
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)<br/>
