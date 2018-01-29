@@ -19,3 +19,5 @@
 * [Natural Language Processing (almost) from Scratch](https://arxiv.org/pdf/1103.0398v1.pdf)<br/>
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)<br/>
 * [Bilingual Word Embeddings for Phrase-Based Machine Translation](http://ai.stanford.edu/~wzou/emnlp2013_ZouSocherCerManning.pdf)<br/>
+* [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)<br/>
+* [ Neural net language models ](http://www.scholarpedia.org/article/Neural_net_language_models)<br/>
