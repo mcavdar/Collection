@@ -5,6 +5,7 @@
 ## Articles
 
 * [PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)<br/>
+* [Computing Machinery and Intelligence](http://www.turingarchive.org/browse.php/B/9)<br/>
 
 ### NLP
 * [On Chomsky and the Two Cultures of Statistical Learning](http://norvig.com/chomsky.html) <br/>
