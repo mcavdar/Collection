@@ -1,19 +1,15 @@
-# Collection
-
-## Papers
-
-## Articles
-
-* [PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)<br/>
+# Papers
 * [Computing Machinery and Intelligence](http://www.turingarchive.org/browse.php/B/9)<br/>
 
-### NLP
+# Articles
+
+* [PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)<br/>
+
+## NLP
 * [On Chomsky and the Two Cultures of Statistical Learning](http://norvig.com/chomsky.html) <br/>
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)<br/>
 
-## Web Pages
-
-## Reading List
+# Reading List
 
 * [A Mathematical Theory of Communication](https://culturemath.ens.fr/sites/default/files/p3-shannon.pdf) <br/>
 * [Probabilistic Syntax](https://nlp.stanford.edu/~manning/papers/probsyntax.pdf) <br/>
