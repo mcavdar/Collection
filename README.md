@@ -11,6 +11,7 @@
 
 # Reading List
 
+* [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf)<br/>
 * [A Mathematical Theory of Communication](https://culturemath.ens.fr/sites/default/files/p3-shannon.pdf) <br/>
 * [Probabilistic Syntax](https://nlp.stanford.edu/~manning/papers/probsyntax.pdf) <br/>
 * [The National Challenge in Computer Science and Technology](https://www.nap.edu/read/10331/chapter/1#viii) <br/>
